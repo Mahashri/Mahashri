@@ -3,7 +3,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahashrid&label=Profile%20views&color=0e75b6&style=flat" alt="mahashrid" /> </p> -->
 
-<p align="left"> <a href="https://www.linkedin.com/in/mahashrid" target="blank"><img src="https://img.shields.io/twitter/follow/mahashrid?logo=twitter&style=for-the-badge" alt="mahashrid" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/mahashrid" target="_blank"><img src="https://img.shields.io/twitter/follow/mahashrid?logo=twitter&style=for-the-badge" alt="mahashrid" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
