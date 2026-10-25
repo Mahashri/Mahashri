@@ -1,143 +1,134 @@
-<h1 align="center">Hi 👋, This is Mahashri D</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+# Hi there, I'm Mahashri D 👋
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahashrid&label=Profile%20views&color=0e75b6&style=flat" alt="mahashrid" /> </p> -->
+### Software Engineer | AI Applications | Full-Stack Development | Data Science
 
-<p align="left"> <a href="https://www.linkedin.com/in/mahashrid" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/twitter/follow/mahashrid?logo=twitter&style=for-the-badge" alt="mahashrid" />
-  </a></p>
+I'm an **Associate Software Engineer at CGI**, passionate about building software applications, AI-powered assistants, and data-driven solutions. I enjoy developing interactive web experiences, integrating APIs, automating workflows, and turning complex requirements into practical products.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahashrid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahashri d" height="30" width="40" /></a>
-  <a href="https://instagram.com/mahashri007?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahashri d" height="30" width="40" /></a>
-  <a href="https://twitter.com/MahashriMD?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahashrid" height="30" width="40" /></a>
-  <a href="mailto:mahashridharmarajan182@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" height="30" width="30" /></a>
-</p>
+- 💼 Associate Software Engineer at CGI
+- ⚛️ Building modern web applications with React
+- 🤖 Interested in AI assistants, chatbots, and intelligent applications
+- 📊 Interested in data analytics, visualization, and financial technology
+- 🔌 Experience with API integrations and developer tools
+- 🚀 Always learning, building, and exploring new technologies
 
-<h3 align="left">About Me</h3>
-<p align="left">
-Passionate about data science and analytics, I thrive on solving complex problems using Python and visualization tools like PowerBi. With a keen interest in AI and machine learning, I am dedicated to leveraging data-driven insights for impactful decision-making.
-</p>
-</p>
+---
 
-<h3 align="left">Technical Skills</h3>
-<p align="left">
-- Python for Data Analytics<br>
-- Data Visualization using Python<br>
-- Data Visualization using PowerBi<br>
-- SQL
-</p>
+## 💻 Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> &nbsp;
+**Programming:** Python, JavaScript, SQL
 
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> 
-  </a> &nbsp;
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/> 
-  </a> &nbsp;
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> 
-  </a> &nbsp;
-  <a href="https://www.datascience.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="data science" width="40" height="40"/> 
-  </a> &nbsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="microsoft office" width="40" height="40"/> 
-  </a> &nbsp;
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> &nbsp;
-  <br>
- <br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> &nbsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> &nbsp;
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> &nbsp;
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
-  </a> &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-     </a> &nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> &nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+**Frontend Development:** React, HTML5, CSS3, Bootstrap
 
-</p>
+**Backend Development:** Python, FastAPI, REST APIs
 
+**Data Science & Analytics:** Power BI, NumPy, Matplotlib, R
 
-<br>
-<h3 align="left">Work Experience</h3>
-<p align="left">
-<b>Associate Software Engineer</b><br>
-<b>CGI</b><br>
-<i>August 2023 – Present</i><br>
-- Implemented features for quality assessment using tools such as CAST, SonarQube, and Checkmarx for the RightCoder project.<br>
-- Developed a plugin for the RightCoder tool within the IntelliJ IDEA IDE.<br>
-- Designed and developed a user-friendly website for the RightCoder tool.<br>
-- Automated email triggers to streamline communication within the project.<br>
-- Spearheaded the development of an AI chatbot tailored for the RightCoder tool.
-</p>
+**Databases:** MySQL, PostgreSQL
 
-<h3 align="left">Projects Involved</h3>
-<p align="left">
-<b>RightCoder Project</b><br>
-<i>Description:</i> RightCoder is a sophisticated tool designed for developer platforms, facilitating the seamless delivery of high-quality code. 
-<br>
-  <br>
-<b>Roles and Responsibilities:</b> <br>
-- Developed a plugin for the RightCoder tool within the IntelliJ IDEA IDE.<br>
-- Designed and developed a user-friendly website for the RightCoder tool.<br>
-- Implemented automation processes for email triggers.<br>
-- Spearheaded the development of an AI chatbot for the RightCoder tool.
-<br>
-  <br>
-<b>Key Achievements:</b> <br>
-- Successfully integrated the RightCoder plugin into the IntelliJ IDEA IDE.<br>
-- Led the development and deployment of the RightCoder website.<br>
-- Streamlined project communication channels through automated email triggers.<br>
-- Pioneered the implementation of an AI chatbot for the RightCoder tool.<br>
-<i>This project provided me with invaluable experience in software development, project management, and innovation, further honing my skills in plugin development, web development, automation, and artificial intelligence.</i>
-</p>
+**Developer Tools & Code Quality:** Git, IntelliJ IDEA, CAST, SonarQube, Checkmarx
 
-<h3 align="left">Certification</h3>
-<p align="left">
-- Google Data Analytics Certificate program offered by Google.<br>
-- Artificial Intelligence Certificate program offered by Microsoft Azure.<br>
-- Introduction to Data Analytics Certificate program offered by IBM.<br>
-- Leadership Skills Certificate program offered by Indian Institute of Management Ahmedabad (IIMA).
-</p>
+**Areas of Interest:** Artificial Intelligence, AI Chatbots, Full-Stack Development, Data Analytics, Code Quality Analytics, Automation, Financial Technology
 
-<h3 align="left">Achievements</h3>
-<p align="left">
-- Paper Presentation on Cloud computing and its role in IT companies at the 2nd International virtual conference on intelligent and computing system ICICS, 2022.<br>
-- Serving as a General Treasurer in a BCA Association.
-</p>
+---
 
-<h3 align="left">Educational Qualification</h3>
-<p align="left">
-- Pursuing Master of Science (MSc) in Data Science at Manipal University, Karnataka, expected graduation in 2025.<br>
-- Completed Bachelor of Computer Applications (BCA) at Bishop Heber College, Trichy, Tamil Nadu in 2023.
-</p>
+## 💼 Professional Experience
 
+### Associate Software Engineer — CGI
+*August 2023 – Present*
+
+Working on enterprise software, code-quality analytics, web applications, and AI-powered solutions.
+
+#### 🔹 Signet — Code Quality Analytics Platform
+
+- Contributed to the development of a React-based code-quality analytics platform.
+- Worked on features for exploring code-quality findings, metrics, scan comparisons, and quality configurations.
+- Worked with platform functionality involving quality gates, quality profiles, rules, permissions, and administration.
+- Integrated frontend functionality with authenticated REST APIs.
+
+#### 🔹 Signet AI Chatbot
+
+- Developed an AI-powered conversational assistant using React and Python FastAPI.
+- Integrated backend APIs to support project-aware responses and access to relevant platform information.
+- Worked on retrieving information about code-quality metrics, findings, technologies, configurations, scan history, and permissions.
+- Contributed to conversational user-interface features, including chat history, suggested actions, navigation, loading states, and error handling.
+- Worked on retrieving relevant facts, FAQs, technology information, and IDE integration guidance.
+
+#### 🔹 RightCoder — Developer Platform
+
+- Developed an IntelliJ IDEA plugin for the RightCoder platform.
+- Designed and developed a web interface for the platform.
+- Worked with code-quality assessment tools, including CAST, SonarQube, and Checkmarx.
+- Implemented automated email triggers to streamline project communication.
+- Contributed to the development of an AI-powered chatbot for RightCoder.
+
+**Professional focus:** Software Engineering · React · Python · FastAPI · REST APIs · AI Chatbots · Code Quality Analytics · Web Development · Automation
+
+---
+
+## 🚀 Personal Projects
+
+### 📈 Stock Market & Financial Technology
+
+- [Stocks Analyser Pro](https://github.com/Mahashri/Stocks_Analyser_Pro)
+- [Stocks Analyser](https://github.com/Mahashri/Stocks_Analyser)
+- [Stock Market Dashboard](https://github.com/Mahashri/Stock_Market_Dashboard)
+- [NiftyLens Stock Dashboard](https://github.com/Mahashri/niftylens-stock-dashboard)
+- [Gold Price](https://github.com/Mahashri/Gold-Price)
+- [Stocks Calculator](https://github.com/Mahashri/Stocks_Calculator)
+
+### 🌐 Web Development
+
+- [My Portfolio](https://github.com/Mahashri/My_Portfolio)
+- [Weather Website](https://github.com/Mahashri/Weather-Website)
+- [May Villa](https://github.com/Mahashri/MayVilla)
+- [May Villa Resort](https://github.com/Mahashri/MayVillaResort)
+
+### 🛠️ Application Development
+
+- [Digital Library Management System](https://github.com/Mahashri/Digital_Library_Management_System)
+- [College Academics Calculator](https://github.com/Mahashri/College_Academics_Calculator)
+- [Business Calculator](https://github.com/Mahashri/Mahashri-Business-Calculator)
+- [AI Interview Questions](https://github.com/Mahashri/Ai_Interview_Questions)
+- [English Vocabulary](https://github.com/Mahashri/Mahashri_English_Vocabulary)
+
+Explore my repositories to learn more about my projects and implementations.
+
+---
+
+## 🎓 Education
+
+- **Master of Science (MSc) in Data Science** — Manipal University, Karnataka, India (2025).
+- **Bachelor of Computer Applications (BCA)** — Bishop Heber College, Tiruchirappalli, Tamil Nadu, India (2023).
+
+---
+
+## 📜 Certifications
+
+- Google Data Analytics
+- Introduction to Data Analytics — IBM
+- Artificial Intelligence — Microsoft Azure
+- Leadership Skills — Indian Institute of Management Ahmedabad (IIMA)
+
+---
+
+## 🏆 Achievements
+
+- Presented a paper on cloud computing and its role in IT companies at the 2nd International Virtual Conference on Intelligent and Computing Systems (ICICS), 2022.
+- Served as General Treasurer of the BCA Association.
+
+---
+
+## 🤝 Connect With Me
+
+- **GitHub:** [@Mahashri](https://github.com/Mahashri)
+- **LinkedIn:** [Mahashri D](https://www.linkedin.com/in/mahashrid)
+- **Instagram:** [@mahashri007](https://instagram.com/mahashri007)
+- **Email:** [Contact me](mailto:mahashridharmarajan182@gmail.com)
+
+---
+
+### ✨ My Goal
+
+To build impactful software products that combine modern web development, intelligent AI capabilities, reliable backend services, and meaningful data insights.
+
+*Thanks for visiting my profile! Feel free to explore my repositories and connect with me.* ⭐
