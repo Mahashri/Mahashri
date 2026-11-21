@@ -194,3 +194,23 @@ Build useful products. Write maintainable code. Solve real-world problems. Keep 
 **My goal:** To build impactful AI-powered software products that combine intelligent systems, reliable engineering and meaningful user experiences.
 
 Thanks for visiting my profile! ⭐
+
+
+---
+
+## 🌐 Live Project Demos
+
+- [Weather Website](https://mahashri.github.io/Weather-Website/)
+- [Country Mini Info Guide](https://mahashri.github.io/Country-Mini-Info-Guide/)
+- [College Academics Calculator](https://mahashri.github.io/College_Academics_Calculator/)
+- [Gold Price Tracker](https://mahashri.github.io/Gold-Price/)
+- [Business Calculator](https://mahashri.github.io/Mahashri-Business-Calculator/)
+- [Personal Portfolio](https://mahashri.github.io/My_Portfolio/)
+- [May Villa](https://mahashri.github.io/May_Villa/)
+- [May Villa Resort](https://mahashri.github.io/MayVillaResort/)
+- [MayVilla](https://mahashri.github.io/MayVilla/)
+- [ISA ICSA](https://mahashri.github.io/ISA_ICSA_PVT/)
+- [AI Interview Questions](https://mahashri.github.io/Ai_Interview_Questions/)
+- [English Vocabulary](https://mahashri.github.io/Mahashri_English_Vocabulary/)
+- [NiftyLens](https://mahashri.github.io/niftylens-stock-dashboard/)
+- [Stocks Analyser Pro](https://stocks-analyser-pro.vercel.app/)
